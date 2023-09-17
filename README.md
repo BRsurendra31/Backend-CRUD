@@ -6,11 +6,6 @@
 -You have to use nodejs, expressjs, mongodb, mongoose, ejs, css etc.
 Generally, here we are just letting the admin add, delete or update the user i.e to perform CRUD operation using NoSql.
 
-# Level
--Basic
--It is very simple and important projects of nodejs and mongodb.
-So you can add this app in your resume as well.
-
 # How can i used this project in my application
 - just go to code button and download the zip file 
 - after that extract that zip file to some folder where u want your react files
